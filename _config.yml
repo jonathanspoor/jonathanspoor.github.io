@@ -18,14 +18,14 @@ avatar: https://jonathanspoor.github.io/images/JS.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: jonathanspoor@gmail.com
+  email:
   facebook:
   flickr:
   github: jonathanspoor
   instagram:
   linkedin: jonathan-s-827579152
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
