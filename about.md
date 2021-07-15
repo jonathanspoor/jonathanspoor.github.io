@@ -5,12 +5,10 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+### Who am I?
 
-### More Information
+An EAP lecturer and Trinity CertTESOL tutor currently living and working in Zhuhai, China. My university profile page is [here](https://faculty-en.uic.edu.cn/jonathanspoor/en/index/37889/list/index.htm) and you can click the icon below to add me on Linkedin. 
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact me via email
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+firstname.lastname(at)gmail.com
