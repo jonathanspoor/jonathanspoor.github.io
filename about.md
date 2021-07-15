@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
+published: true
 ---
 
 Some information about you!
