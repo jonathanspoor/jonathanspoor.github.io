@@ -2,9 +2,6 @@
 layout: post
 title: Why I'm posting here and not on LinkedIn
 ---
-
-# Why I'm posting on here and not LinkedIn
-
 I've read in a number of places that blogs are dead and social blogs on LinkedIn are where the good ELT conversation happens, so why on earth am I posting here?
 
 1. I want to spend less time on social media and having a minimalist blog encourages me to focus on writing and making things. On LinkedIn, I find it too easy to get stuck into endless cycles of scrolling and envy towards other people's careers.
